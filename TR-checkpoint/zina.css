@@ -1,0 +1,19 @@
+header {
+color: blue;background-color:skyblue;}
+main{
+    color: black;background-color: cornflowerblue;
+}
+footer{
+    color: black;background-color:slategray; }
+    h1{color:black;font-style: italic;font-size: 30px;}
+    p{color: black;font-style: oblique;font-size: 20px;}
+#TODAY {color: blue;}
+#main-section > h1{color: crimson;font-stretch: ultra-expanded;}
+#manutd1{color: red;}
+#manutd1~p{font: outline; ;}
+#score{color: gold;}
+h1{color: navy;}
+tr,td,th{border: 5px solid black;width: 7cm;;}
+a:visited{color: tomato;}
+a:hover{color: teal;}
+#sign input{width: 40mm;}
